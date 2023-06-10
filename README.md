@@ -20,7 +20,9 @@ CMD => php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/Laravel-MediaPost/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MultiLanguages/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MultiLanguages/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MultiLanguages/main/Screenshots/Output-03.png)
 
 
 ## 🔗 www.codehafeez.com
